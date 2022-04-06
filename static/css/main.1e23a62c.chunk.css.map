@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Tabs/Tabs.scss"],"names":[],"mappings":"AAEA,WACE,qBAAyB,CACzB,UAAY,CACb,YAGC,iBAAkB","file":"main.1e23a62c.chunk.css","sourcesContent":["@import \"bulma/css/bulma.css\";\n\n.my-active {\n  background-color: #ff0055;\n  color: white;\n}\n\n.tabs__list {\n  margin-left: 200px;\n}\n"]}
